@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testing-the-nuts": {
+      "hosting": {
+        "tictactoe": [
+          "testing-the-nuts"
+        ]
+      }
+    }
+  }
+}
